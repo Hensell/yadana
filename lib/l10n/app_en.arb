@@ -1,0 +1,16 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "chooseTheme": "Choose Theme",
+"@chooseTheme": {
+  "description": "Label or title shown when the user is selecting between light or dark mode, or other visual themes."
+},
+
+"chooseLanguage": "Choose Language",
+"@chooseLanguage": {
+  "description": "Label or title shown when the user is selecting the app's language."
+}
+
+}

@@ -1,0 +1,7 @@
+import 'themes/light_theme.dart';
+import 'themes/dark_theme.dart';
+
+class AppTheme {
+  static final light = lightTheme;
+  static final dark = darkTheme;
+}
